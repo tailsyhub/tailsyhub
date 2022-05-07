@@ -15,4 +15,4 @@ Languages  :  HTML, CSS, PHP, Python, JS, Batch
   Discord  :  Tailsy#0665
 _____________________________________
 ```
-![Les statistiques TailsyGithub sur github](https://github-readme-stats.vercel.app/api?username=TailsyGithub&show_icons=true&hide=["prs","issues","contribs"])
+![Les statistiques tailsyhub sur github](https://github-readme-stats.vercel.app/api?username=tailsyhub&show_icons=true&hide=["prs","issues","contribs"])
